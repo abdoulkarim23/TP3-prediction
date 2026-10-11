@@ -1,0 +1,4 @@
+kafka-python
+pandas
+scikit-learn==1.5.2
+joblib
